@@ -10,13 +10,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 style={{textAlign: 'center', marginTop: "10%"}}>
+        <h1 className="text-blue-700 text-4xl font-bold" style={{textAlign: 'center', marginTop: "10%"}}>
           NEXT.JS DECENTRILIZED APPS
         </h1>
       </main>
 
       <footer style={{textAlign: 'center', position : "absolute", bottom: 0, left : '50%', marginBottom: 10}}>
-        By Giant Defi
+        By Giant 
       </footer>
     </div>
   )
